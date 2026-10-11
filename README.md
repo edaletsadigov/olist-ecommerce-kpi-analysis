@@ -105,7 +105,7 @@ Revenue grows through 2017, reaches **987,765 BRL in November 2017 (+52% vs Octo
 
 ## How to run
 
-1. Load the nine Olist CSV files into Oracle (see [`data/README.md`](data/README.md)).
+1. Load the nine Olist CSV files into Oracle (see [`data/README.md`](dataset/readme.md)).
 2. `pip install -r requirements.txt`
 3. Open `notebook/E_Commerce_Operations.ipynb`, set the connection details, and run all cells.
 4. Or run `sql/queries.sql` directly in SQL Developer.
