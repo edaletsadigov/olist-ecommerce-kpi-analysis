@@ -1,6 +1,6 @@
 # Notebook — `E_Commerce_Operations.ipynb`
 
-Python layer on top of the SQL in [`../sql/queries.sql`](../sql/queries.sql). The notebook connects to Oracle, creates the analytical views, runs Q1–Q10, and turns the results into four charts and a correlation check.
+Python layer on top of the SQL in [`../queries/queries.sql`](../queries/queries.sql). The notebook connects to Oracle, creates the analytical views, runs Q1–Q10, and turns the results into four charts and a correlation check.
 
 ## Flow
 
