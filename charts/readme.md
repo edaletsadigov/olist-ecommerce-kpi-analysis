@@ -2,7 +2,7 @@
 
 The notebook produces four charts. Each one is exported here as a PNG (150 dpi).
 
-> **How these were generated.** The charts were rebuilt by re-running the project's views and queries (Q2, Q6, Q7, Q8, Q10) on the official Olist CSV files in SQLite. Row counts of the three views (110,197 / 96,478 / 97,276) and total revenue (13,221,498.11 BRL) match the Oracle results exactly. Review-based metrics can differ slightly from an Oracle run, because the Oracle reviews table holds more rows than the official file (see [`../data/README.md`](../data/README.md)).
+> **How these were generated.** The charts were rebuilt by re-running the project's views and queries (Q2, Q6, Q7, Q8, Q10) on the official Olist CSV files in SQLite. Row counts of the three views (110,197 / 96,478 / 97,276) and total revenue (13,221,498.11 BRL) match the Oracle results exactly. Review-based metrics can differ slightly from an Oracle run, because the Oracle reviews table holds more rows than the official file (see [`../dataset/README.md`](../dataset/README.md)).
 
 ---
 
